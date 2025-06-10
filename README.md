@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm Porter 👋
 
 <!--
 **porterlin/porterlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/porter0418?theme=dark&font=Fira%20Code)
